@@ -1,0 +1,47 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "african proverbs",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "a proverb",
+                        "an african proverb",
+                        "tell me a proverb",
+                        "tell me an african proverb",
+                        "give me a proverb",
+                        "give me an african proverb",
+                        "tell me proverb",
+                        "tell me an african proverb",
+                        "give me proverb",
+                        "give me an african proverb",
+                        "give me some provrbs",
+                        "give me some african proverbs",
+                        "tell me saying",
+                        "tell me something",
+                        "give me something"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
